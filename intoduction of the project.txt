@@ -1,0 +1,6 @@
+The "tester.py" file is to be run which imports functions from file "face1.py".
+The "training images" folder contains 3 sub-folders,containing images to train our classifier :
+	(1) 0 - Deepika Padukone
+	(2) 1 - Priyanka Chopra
+	(3) 2 - Salman Khan (which is not really needed for these files)
+The "test_images" contains all the images which can be tested (currently it contains a test image of deepika and priyanka).
